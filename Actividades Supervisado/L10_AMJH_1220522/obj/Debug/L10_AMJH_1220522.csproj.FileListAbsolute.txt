@@ -1,0 +1,8 @@
+C:\Users\ashju\OneDrive\Documentos\Proyectos Visual E\L10_AMJH_1220522\obj\Debug\L10_AMJH_1220522.csproj.AssemblyReference.cache
+C:\Users\ashju\OneDrive\Documentos\Proyectos Visual E\L10_AMJH_1220522\obj\Debug\L10_AMJH_1220522.csproj.SuggestedBindingRedirects.cache
+C:\Users\ashju\OneDrive\Documentos\Proyectos Visual E\L10_AMJH_1220522\obj\Debug\L10_AMJH_1220522.csproj.CoreCompileInputs.cache
+C:\Users\ashju\OneDrive\Documentos\Proyectos Visual E\L10_AMJH_1220522\bin\Debug\L10_AMJH_1220522.exe.config
+C:\Users\ashju\OneDrive\Documentos\Proyectos Visual E\L10_AMJH_1220522\bin\Debug\L10_AMJH_1220522.exe
+C:\Users\ashju\OneDrive\Documentos\Proyectos Visual E\L10_AMJH_1220522\bin\Debug\L10_AMJH_1220522.pdb
+C:\Users\ashju\OneDrive\Documentos\Proyectos Visual E\L10_AMJH_1220522\obj\Debug\L10_AMJH_1220522.exe
+C:\Users\ashju\OneDrive\Documentos\Proyectos Visual E\L10_AMJH_1220522\obj\Debug\L10_AMJH_1220522.pdb
